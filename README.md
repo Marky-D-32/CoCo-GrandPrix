@@ -27,6 +27,6 @@ In order for this game to run on the Color Computer, the following calls to ROM 
 | $BBE5 (48101) | $A1C1 (41409) | Scan Keyboard and if pressed, value placed in A register |
 | $BD52 (48466) | $A9DE (43486) | Read Joystick and place values in $15A,$15B,$15C,$15D |
 | $B54A (46410) | $A282 (41602) | Write character in A register to location specified by $88 |
-| $90A1 (37025) | $B958 (47448) | Write cariage return to screen |
+| $90A1 (37025) | $B958 (47448) | Write carriage return to screen |
                 
 <img src='./GrandPrix.jpg' width=60%>
